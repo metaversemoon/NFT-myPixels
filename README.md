@@ -8,7 +8,9 @@ Whenever a viewer goes to the app he or she will be able to browse NFTs from dif
 
 
 ### Website Demo
+https://nft-pixels.netlify.app/
 
+Video: https://youtu.be/XUUJQ_H41CE
 
 ## Inspiration
 I love creating and drawing
